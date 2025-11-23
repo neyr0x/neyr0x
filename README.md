@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bonjour, je suis Neyrøx :wave:
 
-<!--
-**neyr0x/neyr0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur a ses débuts, mais déjà plein d'ambitions !
 
-Here are some ideas to get you started:
+## 💻 Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Langages de programmation
+
+J'ai déjà pu toucher à plusieurs langages de programmations, tous intéressants à leur manière.
+
+![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=unity&logoColor=white&style=for-the-badge)
+
+✨ Mon langage de programmation préféré : <a href="https://csharp.com" target="_blank">CSharp</a>
+
+### Apprentissage en cours
+
+Voici les langages que je suis actuellement en train d'apprendre ou d'appronfondir :
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MYSQL-47A248?logo=mysql&logoColor=white&style=for-the-badge)
+
+### Mes projets
+
+J'ai créé de nombreux plugins pour le jeu **Nova-Life: Amboise**. De futurs projets en cours !
